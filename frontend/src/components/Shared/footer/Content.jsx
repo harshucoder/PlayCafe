@@ -67,12 +67,11 @@ const Nav = () => {
     },
     {
       name: 'Events',
-      link: '/event',
+      link: '/events', // Updated to match the route path
     },
-
     {
       name: 'Reservation',
-      link: '/register',
+      link: '/reservation', // Updated to match the route path
     },
     {
       name: 'Boardgame',
